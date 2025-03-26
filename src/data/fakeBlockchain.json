@@ -1,0 +1,22 @@
+
+{
+    "pendingApprovals": [
+      {
+        "id": 1,
+        "club": "Tech Club",
+        "purpose": "Purchase projector for event",
+        "amount": "0.5 ETH",
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "club": "Cultural Club",
+        "purpose": "Stage decoration",
+        "amount": "0.2 ETH",
+        "status": "pending"
+      }
+    ],
+    "approved": [],
+    "rejected": []
+  }
+  

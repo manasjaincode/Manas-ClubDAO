@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Alice",
+      "expertise": ["UI Design", "Frontend Development"],
+      "past_tasks": ["Website Maintenance", "User Experience Audit"]
+    },
+    {
+      "name": "Bob",
+      "expertise": ["Backend Development", "API Integration"],
+      "past_tasks": ["Server Deployment", "Performance Monitoring"]
+    },
+    {
+      "name": "Charlie",
+      "expertise": ["Machine Learning", "Data Science"],
+      "past_tasks": ["Data Pipeline Management", "AI Model Deployment"]
+    },
+    {
+      "name": "Dave",
+      "expertise": ["Project Management", "Client Communication"],
+      "past_tasks": ["Event Hosting", "Public Speaking"]
+    },
+    {
+      "name": "Eve",
+      "expertise": ["Video Editing", "Content Creation"],
+      "past_tasks": ["Podcast Editing", "YouTube Video Production"]
+    },
+    {
+      "name": "Frank",
+      "expertise": ["Anchoring", "Event Management"],
+      "past_tasks": ["Corporate Event Hosting", "Live Webinar Moderation"]
+    },
+    {
+      "name": "Grace",
+      "expertise": ["Technical Writing", "Software Documentation"],
+      "past_tasks": ["API Documentation", "User Manual Creation"]
+    }
+  ]
+  
